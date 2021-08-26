@@ -28,6 +28,9 @@
        <tr>
           <td style="text-align:center;">Pipex</td> <td> <img src="https://badge42.herokuapp.com/api/project/cchelste/pipex"> </td>
         </tr>
+      <tr>
+          <td style="text-align:center;">Minishell</td> <td> <img src="https://badge42.herokuapp.com/api/project/cchelste/minishell"> </td>
+        </tr>
       
         <tr>
     </thead>
