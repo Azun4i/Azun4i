@@ -16,6 +16,10 @@
         <tr>
           <td style="text-align:center;">Ft_printf</td> <td> <img src="https://badge42.herokuapp.com/api/project/cchelste/ft_printf"> </td>
         </tr>
+       <tr>
+          <td style="text-align:center;">Push_swapf</td> <td> <img src="https://badge42.herokuapp.com/api/project/cchelste/push_swap"> </td>
+        </tr>
+      
         <tr>
     </thead>
     <tbody>
