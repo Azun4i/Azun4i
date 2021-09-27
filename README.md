@@ -33,7 +33,7 @@
         </tr>
          </tr>
       <tr>
-          <td style="text-align:center;">Philosophers</td> <td> <img src="https://badge42.herokuapp.com/api/project/cchelste/philosophers"> </td>
+          <td style="text-align:center;">Philosophers</td> <td> <img src="https://badge42.herokuapp.com/api/project/cchelste/Philosophers"> </td>
         </tr>
         <tr>
     </thead>
