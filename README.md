@@ -31,6 +31,10 @@
       <tr>
           <td style="text-align:center;">Minishell</td> <td> <img src="https://badge42.herokuapp.com/api/project/cchelste/minishell"> </td>
         </tr>
+         </tr>
+      <tr>
+          <td style="text-align:center;">Philosophers</td> <td> <img src="https://badge42.herokuapp.com/api/project/cchelste/philosophers"> </td>
+        </tr>
         <tr>
     </thead>
     <tbody>
