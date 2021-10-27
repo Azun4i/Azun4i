@@ -37,7 +37,11 @@
         </tr>
         <tr>
             <tr>
-          <td style="text-align:center;">NetPractice</td> <td> <img src="https://badge42.herokuapp.com/api/project/cchelste/netpractic"> </td>
+          <td style="text-align:center;">NetPractice</td> <td> <img src="https://badge42.herokuapp.com/api/project/cchelste/NetPractice"> </td>
+        </tr>
+        <tr>
+            <tr>
+          <td style="text-align:center;">Cub3d</td> <td> <img src="https://badge42.herokuapp.com/api/project/cchelste/cub3d"> </td>
         </tr>
     </thead>
     <tbody>
