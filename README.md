@@ -47,7 +47,7 @@ My name is Ruslan
         </tr>
      <tr>
             <tr>
-          <td style="text-align:center;">WebServer</td> <td> <img src="https://badge42.herokuapp.com/api/project/cchelste/webserver"> </td>
+          <td style="text-align:center;">WebServer</td> <td> <img src="https://badge42.herokuapp.com/api/project/cchelste/webserv"> </td>
         </tr>
     </thead>
     <tbody>
