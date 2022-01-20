@@ -45,6 +45,10 @@ My name is Ruslan
             <tr>
           <td style="text-align:center;">Cub3d</td> <td> <img src="https://badge42.herokuapp.com/api/project/cchelste/cub3d"> </td>
         </tr>
+     <tr>
+            <tr>
+          <td style="text-align:center;">WebServer</td> <td> <img src="https://badge42.herokuapp.com/api/project/cchelste/webserver"> </td>
+        </tr>
     </thead>
     <tbody>
     </tbody>
